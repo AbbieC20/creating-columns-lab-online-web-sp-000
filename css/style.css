@@ -46,7 +46,7 @@ img:hover {
   background-color: #dd4444;
 }
 
-.columns{
+.column{
   column-width: 200px;
   max-width: 800px;
   margin: 0 auto;
